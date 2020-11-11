@@ -1,0 +1,11 @@
+{
+  "name": "playwright-raspi64-skeleton",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "ebith",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "playwright-core": "^1.5.2"
+  }
+}
